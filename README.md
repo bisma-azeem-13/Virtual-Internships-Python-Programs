@@ -6,4 +6,5 @@ This file contains all the programs I wrote for my Virtuals Internships.
    I wrote the Python code in Google Colab, cleaned data in Excel, and made a ppt. Here is the link to my code: 
    https://colab.research.google.com/drive/1z7FtTBcSPDMCHWGVnydEr5cHDQdoJY69#scrollTo=pbZ4bCP-EtoN
    As for my presentation, you can visit my Linkedin profile.
-   
+2. Machine Learning model for predicting customer behavior using Random Forest:
+   https://colab.research.google.com/drive/17VTQ8hz4J_ruKnCoGE-A2vJyiXOoabr0
